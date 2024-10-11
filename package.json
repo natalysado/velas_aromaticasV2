@@ -1,0 +1,27 @@
+{
+  "name": "velas_aromaticas",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@mercadopago/sdk-react": "^0.0.19",
+    "autoprefixer": "^10.4.20",
+    "bcrypt": "^5.1.1",
+    "express": "^4.21.1",
+    "jsonwebtoken": "^9.0.2",
+    "mercadopago": "^2.0.15",
+    "mongoose": "^8.7.1",
+    "next": "14.2.15",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
